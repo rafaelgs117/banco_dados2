@@ -1,0 +1,6 @@
+# Configurações de Conexão com MongoDB
+MONGO_URI=mongodb://localhost:27017
+MONGO_DB_NAME=aula05_db
+
+# Exemplo para MongoDB Atlas (nuvem):
+# MONGO_URI=mongodb+srv://<usuario>:<senha>@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
